@@ -8,6 +8,6 @@ The extension stores the activation status locally on your device to ensure the 
 ## Changes to This Policy
 This policy may be updated from time to time. We will notify users of any changes by updating the policy on this page.
 
-**Last Updated:** [Today's Date]
+**Last Updated:** July 26, 2024
 
 For any questions regarding this privacy policy, please contact us at [your email address].
